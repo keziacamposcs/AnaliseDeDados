@@ -3,11 +3,12 @@
 
 * Machine Learning que consegue prever Fake News - baseado nos estudos do [Canal Codifike](https://www.youtube.com/watch?v=UMw5-PhRZS0): [Aqui](https://github.com/keziacamposcs/AnaliseDeDados-e-MachineLearning/blob/main/MachineLearning_FakeNews.ipynb)
 
-* Análise de funcionários com tendência a sair da empresa: construção
+* (Depto. RH) Análise de funcionários e modelo capaz de prever quis funcionários podem deixar a empresa.
 
-*
+* (Depto. Marketing) Modelo voltado para a otimização da estratégia de marketing realizando a segmentação de clientes
 
-*
+* (Depto. Vendas) Modelo com implementação de série temporais para prever preços futuros de produtos
+
 
 
 
