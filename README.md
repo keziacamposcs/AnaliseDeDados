@@ -3,6 +3,8 @@
 
 * Machine Learning que consegue prever Fake News - baseado nos estudos do [Canal Codifike](https://www.youtube.com/watch?v=UMw5-PhRZS0): [Aqui](https://github.com/keziacamposcs/AnaliseDeDados-e-MachineLearning/blob/main/MachineLearning_FakeNews.ipynb)
 
+* Análise de dados de Taxa de suicídios entre os anos de 1985 e 2016 - baseado nos estudos do [Canal Carlos Melo](https://www.youtube.com/watch?v=vN3upvFYwJ0) : [Aqui](https://github.com/keziacamposcs/AnaliseDeDados-e-MachineLearning/blob/main/SetembroAmarelo.ipynb) #SetembroAmarelo
+
 * (Depto. RH) Análise de funcionários e modelo capaz de prever quis funcionários podem deixar a empresa.
 
 * (Depto. Marketing) Modelo voltado para a otimização da estratégia de marketing realizando a segmentação de clientes
