@@ -5,7 +5,7 @@
 
 * Análise de dados de Taxa de suicídios entre os anos de 1985 e 2016 - baseado nos estudos do [Canal Carlos Melo](https://www.youtube.com/watch?v=vN3upvFYwJ0): [Aqui](https://github.com/keziacamposcs/AnaliseDeDados-e-MachineLearning/blob/main/SetembroAmarelo.ipynb) #SetembroAmarelo
 
-* (Depto. RH) Análise de funcionários e modelo capaz de prever quais funcionários podem deixar a empresa: [Aqui]()
+* (Depto. RH) Análise de funcionários e modelo capaz de prever quais funcionários podem deixar a empresa: [Aqui](https://github.com/keziacamposcs/AnaliseDeDados-e-MachineLearning/blob/main/AnaliseDeDados_RH.ipynb)
 
 * (Depto. Marketing) Modelo voltado para a otimização da estratégia de marketing realizando a segmentação de clientes: [Aqui]()
 
