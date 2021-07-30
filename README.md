@@ -11,6 +11,10 @@
 
 * (Depto. Vendas) Modelo com implementação de série temporais para prever preços futuros de produtos: [Aqui]()
 
+### TensorFlow
+
+Todos os modelos contidos nessa pasta foram baseados nos tutoriais oferecidos do [TensorFlow](https://www.tensorflow.org/)
+
 * Classificação Básica de Imagens - utilizando dataset de roupas aplicando Keras: [Aqui](https://github.com/keziacamposcs/AnaliseDeDados-e-MachineLearning/blob/main/Classifica%C3%A7%C3%A3oB%C3%A1sicaImagem.ipynb)
 
 * Classificação Básica de Texto - utilizando textos de avaliação de filmes do IMDb: [Aqui]()
