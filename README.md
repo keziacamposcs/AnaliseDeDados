@@ -7,9 +7,9 @@
 
 * (Depto. RH) Análise de funcionários e modelo capaz de prever quais funcionários podem deixar a empresa: [Aqui](https://github.com/keziacamposcs/AnaliseDeDados-e-MachineLearning/blob/main/AnaliseDeDados_RH.ipynb)
 
-* (Depto. Marketing) Modelo voltado para a otimização da estratégia de marketing realizando a segmentação de clientes: [Aqui]()
+* (Depto. Marketing) Modelo voltado para a otimização da estratégia de marketing realizando a segmentação de clientes: [Em manutenção]()
 
-* (Depto. Vendas) Modelo com implementação de série temporais para prever preços futuros de produtos: [Aqui]()
+* (Depto. Vendas) Modelo com implementação de série temporais para prever preços futuros de produtos: [Em manutenção]()
 
 ### TensorFlow
 
@@ -19,7 +19,7 @@ Todos os modelos contidos nessa pasta foram baseados nos tutoriais oferecidos do
 
 * Classificação Básica de Texto - utilizando textos de avaliação de filmes do IMDb: [Aqui](https://github.com/keziacamposcs/AnaliseDeDados-e-MachineLearning/blob/main/TensorFlow/Classifica%C3%A7%C3%A3oB%C3%A1sicaTexto.ipynb)
 
-* Previsão do Consumo de Combustível: [Aqui](https://github.com/keziacamposcs/AnaliseDeDados-e-MachineLearning/blob/main/Previs%C3%A3oConsumoCombust%C3%ADvel.ipynb)
+* Previsão do Consumo de Combustível: [Aqui](https://github.com/keziacamposcs/AnaliseDeDados-e-MachineLearning/blob/main/TensorFlow/Previs%C3%A3oConsumoCombust%C3%ADvel.ipynb)
 
 
 
