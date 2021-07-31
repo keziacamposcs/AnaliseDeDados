@@ -19,6 +19,8 @@ Todos os modelos contidos nessa pasta foram baseados nos tutoriais oferecidos do
 
 * Classificação Básica de Texto - utilizando textos de avaliação de filmes do IMDb: [Aqui](https://github.com/keziacamposcs/AnaliseDeDados-e-MachineLearning/blob/main/TensorFlow/Classifica%C3%A7%C3%A3oB%C3%A1sicaTexto.ipynb)
 
+* Previsão do Consumo de Combustível: [Aqui](https://github.com/keziacamposcs/AnaliseDeDados-e-MachineLearning/blob/main/Previs%C3%A3oConsumoCombust%C3%ADvel.ipynb)
+
 
 
 
