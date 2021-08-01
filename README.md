@@ -7,6 +7,8 @@
 
 * (Depto. RH) Análise de funcionários e modelo capaz de prever quais funcionários podem deixar a empresa: [Aqui](https://github.com/keziacamposcs/AnaliseDeDados-e-MachineLearning/blob/main/AnaliseDeDados_RH.ipynb)
 
+* Análise de dados do risco de créditos de clientes - utilizando Dataset [Kaggle](https://www.kaggle.com/laotse/credit-risk-dataset): [Aqui](https://github.com/keziacamposcs/AnaliseDeDados-e-MachineLearning/blob/main/AnaliseDeCreditoDeClientes.ipynb)
+
 * (Depto. Marketing) Modelo voltado para a otimização da estratégia de marketing realizando a segmentação de clientes: [Em manutenção]()
 
 * (Depto. Vendas) Modelo com implementação de série temporais para prever preços futuros de produtos: [Em manutenção]()
