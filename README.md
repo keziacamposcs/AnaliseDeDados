@@ -9,7 +9,7 @@
 
 * Análise de risco de emprestimos baseados nos dados de crédito - utilizando Dataset [Kaggle](https://www.kaggle.com/laotse/credit-risk-dataset): [Aqui](https://github.com/keziacamposcs/AnaliseDeDados-e-MachineLearning/blob/main/AnaliseDeCreditoDeClientes.ipynb)
 
-* (Depto. Marketing) Modelo voltado para a otimização da estratégia de marketing realizando a segmentação de clientes: [Em manutenção]()
+* (Depto. Marketing) Modelo voltado para a otimização da estratégia de marketing realizando a segmentação de clientes: [Aqui](https://github.com/keziacamposcs/AnaliseDeDados-e-MachineLearning/blob/main/Segmenta%C3%A7%C3%A3oDeClientes_MKT.ipynb)
 
 * (Depto. Vendas) Modelo com implementação de série temporais para prever preços futuros de produtos: [Em manutenção]()
 
