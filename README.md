@@ -28,6 +28,7 @@ Todos os modelos contidos nessa pasta foram baseados nos tutoriais oferecidos do
 * (Atividade) Aplicando Regressão: [Aqui](https://github.com/keziacamposcs/AnaliseDeDados-e-MachineLearning/blob/main/AtividadePUC_Regress%C3%A3o.ipynb)
 * (Atividade) Analisando dados Enem 2019 - Regressão linear múltipla : [Aqui](https://github.com/keziacamposcs/AnaliseDeDados-e-MachineLearning/blob/main/AtividadePUC_Enem2019.ipynb)
 * (Atividade) Aplicando Previsão de Comissão de Vendas: [Aqui](https://github.com/keziacamposcs/AnaliseDeDados-e-MachineLearning/blob/main/AtitivadadePUC_ComissaoVendas.ipynb)
+* (Atividade) Aplicando Regressão Logística Binária: [Aqui] ()
 
 
 ![alt text](https://github.com/keziacamposcs/AnaliseDeDados/blob/main/Apresenta%C3%A7%C3%A3o/Imagem1.png)
